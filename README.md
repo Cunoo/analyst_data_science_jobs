@@ -1,5 +1,6 @@
 # analyst_data_science_jobs
 
+
 work_year 	        The year the salary was paid.
 experience_level 	The experience level in the job during the year with the following possible values: EN Entry-level / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director
 employment_type 	The type of employement for the role: PT Part-time FT Full-time CT Contract FL Freelance
